@@ -1,6 +1,6 @@
-type PersonType ={
-    name : string;
-    age : number;
-    address: number;
-};
+// type PersonType ={
+//     name : string;
+//     age : number;
+//     address: number;
+// };
 
